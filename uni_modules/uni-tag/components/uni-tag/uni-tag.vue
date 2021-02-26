@@ -143,7 +143,7 @@
 	}
 
 	.uni-tag-text {
-		color: $uni-text-color-inverse;
+		color: black;
 		font-size: $uni-font-size-base;
 	}
 
